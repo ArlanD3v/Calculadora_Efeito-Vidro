@@ -1,3 +1,3 @@
-# Calculadora_GlassmorphismEffects
+# Calculadora_Glassmorphism Effect
 
-##Calculadora com efeito Vidro, e efeito de movimento ao mover o mouse pelas beiradas da calculadora.
+##Calculadora possui um efeito que remete ao vidro, ao movimento o mouse pelas bordas da calculadora, a mesma se inclina de acordo com o movimento
